@@ -1,0 +1,83 @@
+{
+  "window.zoomLevel": 0.7,
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "editor.fontFamily": "JetBrainsMonoNL Nerd Font",
+  "editor.fontWeight": "500",
+  "editor.detectIndentation": false,
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "editor.wrappingIndent": "indent",
+  "editor.accessibilitySupport": "off",
+  "editor.formatOnSave": true,
+  "eslint.rules.customizations": [
+    { "rule": "@typescript-eslint/no-explicit-any", "severity": "off" }
+  ],
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.editor.enablePreview": false,
+  // "workbench.colorTheme": "One Monokai",
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "files.trimTrailingWhitespace": true,
+  "html.format.enable": true,
+  "css.lint.unknownAtRules": "ignore",
+  "git.ignoreMissingGitWarning": true,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "files.eol": "\n",
+  "liveSassCompile.settings.showOutputWindowOn": "Error",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.port": 5501,
+  "cSpell.words": [
+    "@tailwind",
+    "Articuline",
+    "axios",
+    "beclean",
+    "Erdr",
+    "eropower",
+    "Femiston",
+    "Instatus",
+    "Kanban",
+    "lastname",
+    "leadvertex",
+    "manbalance",
+    "middlename",
+    "nodenext",
+    "Pinia",
+    "prostrong",
+    "Scissord",
+    "Scissxrd",
+    "signin",
+    "Signup",
+    "tailwindcss",
+    "toastification",
+    "Torelik",
+    "valik",
+    "Артикулы",
+    "Главная",
+    "Номенклатура",
+    "свечение",
+    "Склад"
+  ],
+}
